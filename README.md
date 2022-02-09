@@ -1,4 +1,6 @@
 # 2022_Federated-Learning-Base
+- Author : Tae Hyun Kim
+- Description : Code for FL describe in the original paper below. 
 
 This code is an implementation of Federated Learning (see. https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 with Tensorflow 2.x.
